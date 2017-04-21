@@ -11,7 +11,7 @@ public class HibernateUtil {
 	
     private static Session session = null;
     
-    // TESTE
+    // TESTE de coisa
     public static Session getSession() {
         try {
             Configuration config = new Configuration().configure();
